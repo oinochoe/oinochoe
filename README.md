@@ -5,3 +5,5 @@
 ![](./profile-3d-contrib/profile-gitblock.svg)
 
 ![Visual Studio Code](https://img.shields.io/badge/Visual%20Studio%20Code-007ACC.svg?&style=for-the-badge&logo=Visual%20Studio%20Code&logoColor=white)
+
+[![roadmap.sh](https://roadmap.sh/card/wide/650a4940d5295d7a81272b2d?variant=dark&roadmaps=frontend)](https://roadmap.sh)
